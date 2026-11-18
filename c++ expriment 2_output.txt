@@ -1,0 +1,7 @@
+Sample input: radius=2, length=3, breadth=4, base=5, height=6
+
+Enter radius: Enter length: Enter breadth: Enter base: Enter height: 
+--- Area Results ---
+Area of Circle: 12.56
+Area of Rectangle: 12
+Area of Triangle: 15
